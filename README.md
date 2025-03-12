@@ -62,3 +62,5 @@ Since this project is developed in **Google Colab**, you can run the `.ipynb` fi
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-username/crm-data-analysis.git
+2. Open the .ipynb files in Google Colab or Jupyter Notebook.
+3. Follow the steps outlined in the notebooks for data cleaning, analysis, and visualization.
