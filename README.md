@@ -17,9 +17,6 @@ To clean and analyze CRM system data to enhance the effectiveness of the online 
 - Calculate summary statistics (mean, median, mode, range) for numerical fields.  
 - Analyze categorical fields such as deal quality, stage, source, and product.  
 
-### Machine Learning Section  
-- Implement predictive modeling to enhance decision-making in lead conversion and sales forecasting.  
-
 ### Time Series Analysis  
 - Examine the trend of deal creation over time and its correlation with call activity.  
 - Analyze the distribution of deal closure time and the duration from creation to closure.  
@@ -37,13 +34,10 @@ To clean and analyze CRM system data to enhance the effectiveness of the online 
 
 ### Geographical Analysis  
 - Examine the geographical distribution of deals across different cities.  
-- Assess the impact of German language proficiency on deal success in various locations.  
+- Assess the impact of German language proficiency on deal success in various locations.
 
-## Deliverables  
-1. **Cleaned dataset**  
-2. **Comprehensive report** detailing the analysis process, findings, visualizations, and recommendations.  
-3. **Dashboard** for data exploration and insights.  
-4. **Presentation** summarizing key findings and recommendations.  
+### Machine Learning Section  
+- Implemented predictive modeling to determine **Call Status** (e.g., successful, missed, or unreachable) based on historical call data, improving lead management and follow-up strategies.  
 
 ## Business Growth & Product Analytics Task  
 Identify growth opportunities and propose a hypothesis to improve business processes for metric growth, ensuring the test duration does not exceed two weeks.  
