@@ -21,7 +21,7 @@ To clean and analyze CRM system data to enhance the effectiveness of the online 
 - Examine the trend of deal creation over time and its correlation with call activity.  
 - Analyze the distribution of deal closure time and the duration from creation to closure.
 
-![](https://github.com/DAIvdetango/Data-Analysis--Online-School-CRM/blob/main/images%20/Weekly%20trend.png)
+<img src="https://github.com/DAIvdetango/Data-Analysis--Online-School-CRM/blob/main/images%20/Weekly%20trend.png" alt="Weekly trend of creating deals and calls" width="650">
 
 ### Marketing Campaign Effectiveness Analysis  
 - Compare the effectiveness of different campaigns in lead generation and conversion rates.  
