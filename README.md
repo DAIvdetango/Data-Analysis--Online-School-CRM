@@ -25,10 +25,16 @@ To clean and analyze CRM system data to enhance the effectiveness of the online 
 
 ### Marketing Campaign Effectiveness Analysis  
 - Compare the effectiveness of different campaigns in lead generation and conversion rates.  
-- Evaluate the efficiency of various marketing sources in generating high-quality leads.  
+- Evaluate the efficiency of various marketing sources in generating high-quality leads.
+
+  <img src="https://github.com/DAIvdetango/Data-Analysis--Online-School-CRM/blob/main/images%20/Campaign%20Sours%202.png" alt="Mean time to close and conversion rate by campaign and source" width="650">
+
 
 ### Sales Department Performance Analysis  
-- Assess the performance of individual sales representatives and marketing campaigns based on the number of processed deals, conversion rates, and total sales revenue.  
+- Assess the performance of individual sales representatives and marketing campaigns based on the number of processed deals, conversion rates, and total sales revenue.
+
+<img src="https://github.com/DAIvdetango/Data-Analysis--Online-School-CRM/blob/main/images/Analys_pay_prod_2.png" alt="Product performance and revenue share by education type" width="650">
+
 
 ### Payment and Product Analysis  
 - Study the distribution of payment types and their impact on deal success.  
